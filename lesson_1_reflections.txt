@@ -1,0 +1,5 @@
+Using the diff function saved me the hassle of manually finding changes in the two files.
+In the long run it could greatly save me time and the hassle.
+I have control over when I would like to save my changes which gives me 
+just the right number of saves for my project.
+Since they are not mostly interelated
