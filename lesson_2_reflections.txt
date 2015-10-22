@@ -1,2 +1,3 @@
 A .git folder is placed into the directory.
 More lines in here.
+It helps me group similar logical changes.
